@@ -1,0 +1,16 @@
+{
+  "transport": "USB",
+  "usb_port": "",
+  "usb_baudrate": 115200,
+  "doip_host": "192.168.1.1",
+  "doip_port": 13400,
+  "doip_src_addr": 3584,
+  "doip_tgt_addr": 1,
+  "j2534_dll": "",
+  "can_bitrate": 500000,
+  "scan_addr_start": 1792,
+  "scan_addr_end": 1919,
+  "log_level": "DEBUG",
+  "theme": "dark",
+  "live_data_interval": 100
+}

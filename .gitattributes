@@ -1,0 +1,28 @@
+# Forcer LF pour tous les fichiers texte
+* text=auto eol=lf
+
+# Spécifique aux fichiers Python
+*.py text eol=lf
+
+# Spécifique aux fichiers QSS (styles Qt)
+*.qss text eol=lf
+
+# Spécifique aux fichiers de configuration
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+
+# Spécifique aux fichiers Markdown et docs
+*.md text eol=lf
+*.txt text eol=lf
+
+# Garder les binaires intacts (pas de conversion)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.exe binary

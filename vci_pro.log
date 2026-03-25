@@ -1,0 +1,208 @@
+[09:36:49.304] [DEBUG   ] [vci_pro] Stylesheet loaded
+[09:36:49.307] [INFO    ] [vci_pro] AppController initialized
+[09:36:49.549] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[09:54:47.889] [DEBUG   ] [vci_pro] Stylesheet loaded
+[09:54:47.891] [INFO    ] [vci_pro] AppController initialized
+[09:54:47.921] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[09:58:59.011] [DEBUG   ] [vci_pro] Stylesheet loaded
+[09:58:59.014] [INFO    ] [vci_pro] AppController initialized
+[09:58:59.051] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[09:59:44.788] [DEBUG   ] [vci_pro] Stylesheet loaded
+[09:59:44.788] [INFO    ] [vci_pro] AppController initialized
+[09:59:44.973] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[10:51:13.504] [DEBUG   ] [vci_pro] Stylesheet loaded
+[10:51:13.513] [INFO    ] [vci_pro] AppController initialized
+[10:51:13.674] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[10:53:04.665] [DEBUG   ] [vci_pro] Stylesheet loaded
+[10:53:04.669] [INFO    ] [vci_pro] AppController initialized
+[10:53:04.787] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[10:56:03.633] [DEBUG   ] [vci_pro] Stylesheet loaded
+[10:56:03.640] [INFO    ] [vci_pro] AppController initialized
+[10:56:03.762] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[10:56:04.295] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[10:57:58.378] [ERROR   ] [vci_pro] USB open failed: could not open port '(no port found)': FileNotFoundError(2, 'Le fichier spécifié est introuvable.', None, 2)
+[10:57:58.391] [INFO    ] [vci_pro] Transport disconnected
+[10:57:58.392] [INFO    ] [vci_pro] Session closed
+[10:58:16.249] [DEBUG   ] [vci_pro] Config saved
+[11:00:10.630] [DEBUG   ] [vci_pro] Config loaded
+[11:00:11.254] [DEBUG   ] [vci_pro] Stylesheet loaded
+[11:00:11.260] [INFO    ] [vci_pro] AppController initialized
+[11:00:11.441] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[11:00:11.914] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[11:00:17.250] [ERROR   ] [vci_pro] USB open failed: could not open port '(no port found)': FileNotFoundError(2, 'Le fichier spécifié est introuvable.', None, 2)
+[11:00:17.364] [INFO    ] [vci_pro] Transport disconnected
+[11:00:17.379] [INFO    ] [vci_pro] Session closed
+[11:01:11.018] [DEBUG   ] [vci_pro] Config saved
+[11:26:54.384] [DEBUG   ] [vci_pro] Config loaded
+[11:26:54.608] [DEBUG   ] [vci_pro] Stylesheet loaded
+[11:26:54.612] [INFO    ] [vci_pro] AppController initialized
+[11:26:54.800] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[11:26:55.620] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[11:27:29.054] [ERROR   ] [vci_pro] USB open failed: could not open port '(no port found)': FileNotFoundError(2, 'Le fichier spécifié est introuvable.', None, 2)
+[11:27:29.057] [INFO    ] [vci_pro] Transport disconnected
+[11:27:29.061] [INFO    ] [vci_pro] Session closed
+[11:27:32.271] [DEBUG   ] [vci_pro] Config saved
+[13:20:48.206] [DEBUG   ] [vci_pro] Config loaded
+[13:20:48.696] [DEBUG   ] [vci_pro] Stylesheet loaded
+[13:20:48.699] [INFO    ] [vci_pro] AppController initialized
+[13:20:48.949] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[13:20:49.398] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[13:21:18.305] [DEBUG   ] [vci_pro] Config saved
+[14:46:57.761] [DEBUG   ] [vci_pro] Config loaded
+[14:46:58.574] [DEBUG   ] [vci_pro] Stylesheet loaded
+[14:46:58.589] [INFO    ] [vci_pro] AppController initialized
+[14:46:58.682] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[14:46:59.135] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[14:47:10.542] [DEBUG   ] [vci_pro] Config saved
+[14:49:25.150] [DEBUG   ] [vci_pro] Config loaded
+[14:49:25.182] [DEBUG   ] [vci_pro] Stylesheet loaded
+[14:49:25.197] [INFO    ] [vci_pro] AppController initialized
+[14:49:25.308] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[14:49:25.730] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:18:50.307] [DEBUG   ] [vci_pro] Config saved
+[15:28:13.319] [DEBUG   ] [vci_pro] Config loaded
+[15:28:13.543] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:28:13.546] [INFO    ] [vci_pro] AppController initialized
+[15:28:13.668] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:28:14.129] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:28:40.181] [DEBUG   ] [vci_pro] Config saved
+[15:30:22.790] [DEBUG   ] [vci_pro] Config loaded
+[15:30:22.844] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:30:22.852] [INFO    ] [vci_pro] AppController initialized
+[15:30:23.004] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:30:23.571] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:31:58.774] [DEBUG   ] [vci_pro] Config saved
+[15:32:46.838] [DEBUG   ] [vci_pro] Config loaded
+[15:32:46.877] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:32:46.886] [INFO    ] [vci_pro] AppController initialized
+[15:32:46.986] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:32:47.421] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:34:23.118] [DEBUG   ] [vci_pro] Config saved
+[15:34:25.866] [DEBUG   ] [vci_pro] Config loaded
+[15:34:25.909] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:34:25.920] [INFO    ] [vci_pro] AppController initialized
+[15:34:26.037] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:34:26.598] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:35:22.270] [DEBUG   ] [vci_pro] Config saved
+[15:35:41.981] [DEBUG   ] [vci_pro] Config loaded
+[15:35:42.203] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:35:42.207] [INFO    ] [vci_pro] AppController initialized
+[15:35:42.381] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:35:43.000] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:36:09.020] [DEBUG   ] [vci_pro] Config saved
+[15:36:28.776] [DEBUG   ] [vci_pro] Config loaded
+[15:36:28.827] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:36:28.833] [INFO    ] [vci_pro] AppController initialized
+[15:36:28.986] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:36:29.488] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:36:38.614] [DEBUG   ] [vci_pro] Config saved
+[15:36:56.585] [DEBUG   ] [vci_pro] Config loaded
+[15:36:56.808] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:36:56.811] [INFO    ] [vci_pro] AppController initialized
+[15:36:56.947] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:36:57.584] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:37:10.455] [DEBUG   ] [vci_pro] Config saved
+[15:39:11.063] [DEBUG   ] [vci_pro] Config loaded
+[15:39:11.148] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:39:11.156] [INFO    ] [vci_pro] AppController initialized
+[15:41:00.684] [DEBUG   ] [vci_pro] Config loaded
+[15:41:00.833] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:41:00.850] [INFO    ] [vci_pro] AppController initialized
+[15:41:00.914] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:41:01.468] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:41:30.376] [DEBUG   ] [vci_pro] Config loaded
+[15:41:30.636] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:41:30.636] [INFO    ] [vci_pro] AppController initialized
+[15:41:30.777] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:41:31.339] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:41:50.854] [DEBUG   ] [vci_pro] Config saved
+[15:42:46.428] [DEBUG   ] [vci_pro] Config loaded
+[15:42:46.589] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:42:46.589] [INFO    ] [vci_pro] AppController initialized
+[15:42:46.714] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:42:47.278] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:43:01.845] [DEBUG   ] [vci_pro] Config saved
+[15:44:11.732] [DEBUG   ] [vci_pro] Config loaded
+[15:44:11.792] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:44:11.792] [INFO    ] [vci_pro] AppController initialized
+[15:44:11.949] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:44:12.448] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:44:25.120] [DEBUG   ] [vci_pro] Config saved
+[15:45:10.764] [DEBUG   ] [vci_pro] Config loaded
+[15:45:10.855] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:45:10.868] [INFO    ] [vci_pro] AppController initialized
+[15:45:10.989] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:45:11.526] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:45:28.729] [DEBUG   ] [vci_pro] Config saved
+[15:45:52.606] [DEBUG   ] [vci_pro] Config loaded
+[15:45:52.654] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:45:52.672] [INFO    ] [vci_pro] AppController initialized
+[15:45:52.788] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:45:53.183] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:46:05.338] [DEBUG   ] [vci_pro] Config saved
+[15:46:21.358] [DEBUG   ] [vci_pro] Config loaded
+[15:46:21.402] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:46:21.417] [INFO    ] [vci_pro] AppController initialized
+[15:46:21.553] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:46:21.990] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:46:27.228] [DEBUG   ] [vci_pro] Config saved
+[15:46:40.982] [DEBUG   ] [vci_pro] Config loaded
+[15:46:41.061] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:46:41.085] [INFO    ] [vci_pro] AppController initialized
+[15:46:41.246] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:46:41.743] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:46:49.606] [DEBUG   ] [vci_pro] Config saved
+[15:47:04.105] [DEBUG   ] [vci_pro] Config loaded
+[15:47:04.186] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:47:04.199] [INFO    ] [vci_pro] AppController initialized
+[15:47:04.308] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:47:04.760] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:47:21.069] [DEBUG   ] [vci_pro] Config saved
+[15:47:35.374] [DEBUG   ] [vci_pro] Config loaded
+[15:47:35.440] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:47:35.473] [INFO    ] [vci_pro] AppController initialized
+[15:47:35.619] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:47:36.077] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:48:18.189] [DEBUG   ] [vci_pro] Config saved
+[15:53:23.368] [DEBUG   ] [vci_pro] Config loaded
+[15:53:23.438] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:53:23.470] [INFO    ] [vci_pro] AppController initialized
+[15:53:23.650] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:53:24.073] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:53:35.322] [DEBUG   ] [vci_pro] Config saved
+[15:55:59.158] [DEBUG   ] [vci_pro] Config loaded
+[15:55:59.256] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:55:59.297] [INFO    ] [vci_pro] AppController initialized
+[15:55:59.437] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:55:59.849] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:56:23.365] [DEBUG   ] [vci_pro] Config saved
+[15:56:43.501] [DEBUG   ] [vci_pro] Config loaded
+[15:56:43.585] [DEBUG   ] [vci_pro] Stylesheet loaded
+[15:56:43.615] [INFO    ] [vci_pro] AppController initialized
+[15:56:43.732] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[15:56:44.134] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[15:57:05.934] [DEBUG   ] [vci_pro] Config saved
+[16:07:56.456] [DEBUG   ] [vci_pro] Config loaded
+[16:07:56.544] [DEBUG   ] [vci_pro] Stylesheet loaded
+[16:07:56.586] [INFO    ] [vci_pro] AppController initialized
+[16:07:56.743] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[16:07:57.166] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[16:08:04.380] [DEBUG   ] [vci_pro] Config saved
+[16:08:19.241] [DEBUG   ] [vci_pro] Config loaded
+[16:08:19.330] [DEBUG   ] [vci_pro] Stylesheet loaded
+[16:08:19.370] [INFO    ] [vci_pro] AppController initialized
+[16:08:19.494] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[16:08:19.917] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[16:08:28.132] [DEBUG   ] [vci_pro] Config saved
+[16:08:40.771] [DEBUG   ] [vci_pro] Config loaded
+[16:08:40.854] [DEBUG   ] [vci_pro] Stylesheet loaded
+[16:08:40.889] [INFO    ] [vci_pro] AppController initialized
+[16:08:41.029] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[16:08:41.453] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[16:08:51.372] [DEBUG   ] [vci_pro] Config saved
+[16:09:07.160] [DEBUG   ] [vci_pro] Config loaded
+[16:09:07.270] [DEBUG   ] [vci_pro] Stylesheet loaded
+[16:09:07.312] [INFO    ] [vci_pro] AppController initialized
+[16:09:07.444] [DEBUG   ] [vci_pro] J2534 registry scan: [WinError 2] Le fichier spécifié est introuvable
+[16:09:07.845] [INFO    ] [vci_pro] VCI PRO v1.0.0 started
+[16:09:23.748] [DEBUG   ] [vci_pro] Config saved
